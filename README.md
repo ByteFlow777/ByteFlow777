@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ByteFlow777
-- 👀 I’m interested in C++, java
+- 👋 Hi, I’m @Lyon Li
+- 👀 I’m interested in C++, Java
 - 🌱 I’m currently learning C++
 - 📫 byteflow777@gmail.com
 
